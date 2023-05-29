@@ -27,7 +27,7 @@ Docker Image Build
 Docker Image Upload into DockerHub
 
 
-# steps to automate WebApp project in Jenkins:
+# Automation Steps on Jenkins:
  
 1. Login to Jenkins. Click on New item.
 2. Enter an item name --> select Pipeline.
